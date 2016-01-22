@@ -1,5 +1,8 @@
 # BooksToRead
-PracticesToPractise, pick up what I should learn well in school. As old saying goes, [出来混，迟早要还的](http://img31.mtime.cn/CMS/Gallery/2012/11/04/135111.99760996_900.jpg)
+
+PracticesToPractise, pick up what I should learn well in school. As old saying goes, [出来混，迟早要还的](http://img31.mtime.cn/CMS/Gallery/2012/11/04/135111.99760996_900.jpg), and now I am paying back for it.
+
+This is a project **for myself** to record some books and materials I want to read recently.
 
 ### Already started but not finished:
 
@@ -16,5 +19,7 @@ PracticesToPractise, pick up what I should learn well in school. As old saying g
 
 ### To be read:
 * Tingine, [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html), as I create an account on [网易蜂巢](https://c.163.com), and I want to learn something about nginx.
+
+* [图解TCP/IP](http://book.douban.com/subject/24737674/)
 
 ### Already finished:
