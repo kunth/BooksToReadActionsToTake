@@ -30,3 +30,10 @@ As I have a poor memory and low intelligence, some books nedd to redo.
 * [sql必知必会](http://book.douban.com/subject/2124377/)
 
 ### Already finished:
+
+---
+
+### Not directly related with computer engineer:
+* 三国演义 (kindle)
+
+* [时间简史 普及版](http://book.douban.com/subject/1474050/) (微信读书)
