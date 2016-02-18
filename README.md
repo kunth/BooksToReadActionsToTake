@@ -10,6 +10,8 @@ This is a project **for myself** to record some books and materials I want to re
 
 * [Redis设计与实践](http://book.douban.com/subject/25900156/)
 
+* [TCP/IP详解 卷1:协议](http://book.douban.com/subject/1088054/)
+
 
 ### Long long far from finished:
 * [APUE](http://book.douban.com/subject/1788421/)
