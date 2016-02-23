@@ -32,14 +32,13 @@ This is a project **for myself** to record some books and materials I want to re
  
 * [thrift](https://github.com/apache/thrift)
 
-### Intends to read again:
-As I have a poor memory and low intelligence, some books nedd to redo.
+### Already finished(only list books):
 
-* [sql必知必会](http://book.douban.com/subject/2124377/)
-
-### Already finished:
+As poor memory and low intelligence, books need to be reviewed.
 
 * [图解HTTP](http://book.douban.com/subject/25863515/)
+
+* [sql必知必会](http://book.douban.com/subject/2124377/)
 
 ---
 
