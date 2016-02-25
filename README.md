@@ -12,16 +12,18 @@ This is a project **for myself** to record some books and materials I want to re
 
 * [TCP/IP详解 卷1:协议](http://book.douban.com/subject/1088054/)
 
+* [深入浅出nodejs](http://book.douban.com/subject/25768396/)
 
 ### Long long far from finished:
 * [APUE](http://book.douban.com/subject/1788421/)
-
 
 ### Plan to study:
 #### books
 * [图解TCP/IP](http://book.douban.com/subject/24737674/)
 
 #### projects
+* pomelo[https://github.com/NetEase/pomelo]
+
 * Tingine, [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html), as I create an account on [网易蜂巢](https://c.163.com), and I want to learn something about nginx.
 
 * [xv6](https://pdos.csail.mit.edu/6.828/2011/xv6.html)
