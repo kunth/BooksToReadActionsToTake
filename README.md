@@ -34,6 +34,9 @@ This is a project **for myself** to record some books and materials I want to re
  
 * [thrift](https://github.com/apache/thrift)
 
+### language
+* nodejs
+
 ### Already finished(only list books):
 
 As poor memory and low intelligence, books need to be reviewed.
