@@ -14,6 +14,8 @@ This is a project **for myself** to record some books and materials I want to re
 
 * [深入浅出nodejs](http://book.douban.com/subject/25768396/)
 
+* [程序员的自我修养](https://book.douban.com/subject/3652388/) 
+
 ### Long long far from finished:
 * [APUE](http://book.douban.com/subject/1788421/)
 
