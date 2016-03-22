@@ -16,6 +16,8 @@ This is a project **for myself** to record some books and materials I want to re
 
 * [程序员的自我修养](https://book.douban.com/subject/3652388/) 
 
+* [Linux多线程服务端编程](http://book.douban.com/subject/20471211/)
+
 ### Long long far from finished:
 * [APUE](http://book.douban.com/subject/1788421/)
 
