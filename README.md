@@ -10,6 +10,11 @@ This is a project **for myself** to record some books and materials I want to re
 
 * [Redis设计与实践](http://book.douban.com/subject/25900156/)
 
+
+
+### Long long far from finished:
+* [APUE](http://book.douban.com/subject/1788421/)
+* 
 * [TCP/IP详解 卷1:协议](http://book.douban.com/subject/1088054/)
 
 * [深入浅出nodejs](http://book.douban.com/subject/25768396/)
@@ -17,10 +22,6 @@ This is a project **for myself** to record some books and materials I want to re
 * [程序员的自我修养](https://book.douban.com/subject/3652388/) 
 
 * [Linux多线程服务端编程](http://book.douban.com/subject/20471211/)
-
-### Long long far from finished:
-* [APUE](http://book.douban.com/subject/1788421/)
-
 ### Plan to study:
 #### books
 * [图解TCP/IP](http://book.douban.com/subject/24737674/)
@@ -54,4 +55,7 @@ As poor memory and low intelligence, books need to be reviewed.
 ### Not directly related with computer engineer:
 * 三国演义 (kindle)
 
-* [时间简史 普及版](http://book.douban.com/subject/1474050/) (微信读书)
+* [时间简史 普及版](http://book.douban.com/subject/1474050/) 
+
+* [微观经济学] (https://book.douban.com/subject/11530078/)
+
