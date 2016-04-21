@@ -10,11 +10,12 @@ This is a project **for myself** to record some books and materials I want to re
 
 * [Redis设计与实践](http://book.douban.com/subject/25900156/)
 
+* [LINUX系统编程](https://book.douban.com/subject/3907181/) , the second pass
 
 
 ### Long long far from finished:
 * [APUE](http://book.douban.com/subject/1788421/)
-* 
+
 * [TCP/IP详解 卷1:协议](http://book.douban.com/subject/1088054/)
 
 * [深入浅出nodejs](http://book.douban.com/subject/25768396/)
@@ -22,7 +23,9 @@ This is a project **for myself** to record some books and materials I want to re
 * [程序员的自我修养](https://book.douban.com/subject/3652388/) 
 
 * [Linux多线程服务端编程](http://book.douban.com/subject/20471211/)
+
 ### Plan to study:
+
 #### books
 * [图解TCP/IP](http://book.douban.com/subject/24737674/)
 
