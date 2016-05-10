@@ -12,6 +12,7 @@ This is a project **for myself** to record some books and materials I want to re
 
 * [LINUX系统编程](https://book.douban.com/subject/3907181/) , the second pass
 
+* [深入理解LINUX网络技术内幕](https://book.douban.com/subject/4015134/)
 
 ### Long long far from finished:
 * [APUE](http://book.douban.com/subject/1788421/)
