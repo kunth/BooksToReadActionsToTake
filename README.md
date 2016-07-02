@@ -14,7 +14,7 @@ This is a project **for myself** to record some books and materials I want to re
 
 * [go语言圣经](https://docs.ruanjiadeng.com/gopl-zh/index.html) 
 
-* ~~[学习go语言](https://github.com/mikespook/Learning-Go-zh-cn) ~~ , short and simple
+* ~~[学习go语言](https://github.com/mikespook/Learning-Go-zh-cn)~~ , it is short and simple
 
 ### Long long far from finished:
 * [APUE](http://book.douban.com/subject/1788421/)
